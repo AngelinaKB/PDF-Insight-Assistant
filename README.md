@@ -46,9 +46,8 @@ streamlit run app.py
 
 ## 🧪 Use Cases
 
-- Understand lengthy academic papers faster  
-- Actively test your comprehension with AI-generated challenges  
-- Extract insights from dense technical documents without manual scanning  
+![App Interface](demo output/1_Pdf summarizer.png)
+
 
 ## 📦 Requirements
 
