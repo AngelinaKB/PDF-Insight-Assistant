@@ -46,7 +46,7 @@ streamlit run app.py
 
 ## 🧪 Use Cases
 
-![App Interface](demo output/1_Pdf summarizer.png)
+![App Interface](1_Pdf summarizer.png)
 
 
 ## 📦 Requirements
