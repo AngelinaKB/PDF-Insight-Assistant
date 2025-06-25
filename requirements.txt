@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+transformers
+torch
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence-transformers
+ollama                # Ensure Ollama CLI is installed separately
