@@ -55,6 +55,31 @@ Install via `requirements.txt`:
 - Summarization: `sshleifer/distilbart-cnn-12-6`  
 - Embeddings: `nomic-embed-text`  
 - LLM: `llama3:latest` via Ollama  
+## 🖼️ Demo
+
+### 🔹 1. PDF Summarization
+After uploading, a short summary is generated using a transformer model.
+![PDF Summarizer Demo](demo/1_Pdf_summarizer.png)
+
+---
+
+### 🔹 2. Ask Anything Mode
+Ask any free-form question based on the document. The assistant finds the answer and provides a citation.
+![Ask Me Anything](demo/2_Ask_me_anything.png)
+
+---
+
+### 🔹 3. Challenge Me – Question Generation
+The assistant generates 3 logic-based questions from the uploaded document.
+![Challenge Me Questions](demo/3_Challenge_Me_Questions.png)
+
+---
+
+### 🔹 4. Challenge Me – Answer Evaluation
+Your answers are evaluated with feedback and document-grounded explanations.
+![Challenge Me Results](demo/4_Challenge_Me_Results.png)
+
+---
 
 ## Credits
 
