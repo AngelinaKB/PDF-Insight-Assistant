@@ -44,10 +44,6 @@ streamlit run app.py
 - **Ask Anything**: User question is matched with top chunks and sent to `llama3` via Ollama, returning an answer with justification.
 - **Challenge Me**: The model generates 3 logic-based questions. User answers are evaluated with explanations and document references.
 
-## 🧪 Use Cases
-
-![App Interface](1_Pdf summarizer.png)
-
 
 ## 📦 Requirements
 
