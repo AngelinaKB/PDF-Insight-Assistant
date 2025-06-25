@@ -12,14 +12,14 @@ An AI-powered assistant that reads, summarizes, and interacts with PDF documents
 - ⚙️ Runs completely offline using Ollama + open-source models  
 
 ## 📁 Project Structure
-
+```
 smart-pdf-companion/
 ├── app.py # Streamlit UI interface
 ├── summarizer.py # Summarization and PDF extraction logic
 ├── interactive_agent.py # Chunking, embeddings, QA & challenge logic
 ├── requirements.txt # List of dependencies
 └── README.md # You're reading it!
-
+```
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**
